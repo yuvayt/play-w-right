@@ -1,0 +1,7 @@
+{
+    "delete_book": {
+        "isbns": ["9781449331818"],
+        "book_title": "Learning JavaScript Design Patterns",
+        "delete_message": "Book deleted."
+    }
+}
